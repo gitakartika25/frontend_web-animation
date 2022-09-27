@@ -1,5 +1,5 @@
 body {
-    min-height: 4000px;
+    min-height: 3000px;
 }
 
 .nav-link{
@@ -48,3 +48,58 @@ body {
     
     
 }
+
+.img-circle {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.img-shopify {
+    position: absolute;
+    margin: -5px 0px 0px -325px;
+
+}
+.img-chrome {
+    position: absolute;
+    margin: -5px 0px 0px -200px;
+
+}
+.img-amazon {
+    position: absolute;
+    margin: -5px 0px 0px -75px;
+
+}
+
+.img-git {
+    position: absolute;
+    margin: 130px 0px 0px -325px;
+
+}
+.img-dropbox {
+    position: absolute;
+    margin: 130px 0px 0px -200px;
+
+}
+.img-gitlab {
+    position: absolute;
+    margin: 130px 0px 0px -75px;
+
+}
+
+.img-shopify2 {
+    position: absolute;
+    margin: 255px 0px 0px -325px;
+
+}
+.img-skype {
+    position: absolute;
+    margin: 255px 0px 0px -200px;
+
+}
+.img-firefox {
+    position: absolute;
+    margin: 255px 0px 0px -75px;
+
+}
+
