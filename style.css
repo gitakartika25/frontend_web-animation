@@ -1,5 +1,5 @@
 body {
-    min-height: 3000px;
+    min-height: 2500px;
 }
 
 .nav-link{
@@ -20,13 +20,27 @@ body {
     font-weight: bold;
 }
 
+#carouselExampleControls {
+    width: 500px;
+    height: 500px;
+}
+
+.carousel-inner {
+    width: 500px;
+    height: 500px;
+}
+
 .workfor {
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 .circlepng {
     width: 300px;
     height: 300px;
+}
+
+.project {
+    margin-top: 10%;
 }
 
 .gotproject{
@@ -35,7 +49,7 @@ body {
     margin-left: 20%;
     padding-top: 1%;
     padding-bottom: 2%;
-    margin-top: 5%;
+    margin-top: 0%;
 }
 
 .gotproject h6{
@@ -47,6 +61,17 @@ body {
     padding-top: 1%;
     
     
+}
+
+.img-banner {
+    position: relative;
+}
+
+.img-gita {
+    margin: 0px 0px 0px -560px;
+    position: absolute;
+    width: 600px;
+    height: 600px;
 }
 
 .img-circle {
